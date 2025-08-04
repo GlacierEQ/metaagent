@@ -3,7 +3,7 @@
 
 <div align="center">
 <p><strong>Learning by Doing: From Novice to Expert!</strong></p>
-<a href="https://arxiv.org/" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
+<a href="https://arxiv.org/abs/2508.00271" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 <a href="https://github.com/"><img alt="License" src="https://img.shields.io/badge/Apache-2.0-green"></a>
 <a href="https://www.langchain.com/langgraph"><img alt="License" src="https://img.shields.io/badge/powered by-LangGraph-blue"></a>
 </div>
