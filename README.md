@@ -537,10 +537,15 @@ We evaluate MetaAgent on the GAIA, WebWalkerQA, and BrowseCamp datasets. The res
 
 ### Citation:
 ```bibtex
-@article{qian2025metaagent,
-  title={MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning},
-  author={Hongjin Qian and Zheng Liu},
-  year={2025}
+@misc{qian2025metaagentselfevolvingagenttool,
+      title={MetaAgent: Toward Self-Evolving Agent via Tool Meta-Learning}, 
+      author={Hongjin Qian and Zheng Liu},
+      year={2025},
+      eprint={2508.00271},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.00271}, 
+}
 }
 ```
 
