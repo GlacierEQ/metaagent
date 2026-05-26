@@ -243,12 +243,12 @@ You can use other OpenAI-style models by replacing the `--reasoning_model` and `
 Besides, if advanced reasoning model is specified, MetaAgent will use the advanced reasoning model as the central reasoning model.
 > **Tip:** Check all ports in these services to enable communication between the services.
 
-In the data folder, we provide the GAIA subset and the WebWalker dataset used in this project. The [BrowseCamp](https://arxiv.org/abs/2504.12516) dataset, also utilized here, is not publicly released in decoded form by the original authors; you will need to download and decode it yourself following their instructions.
+In the data folder, we provide the GAIA subset and the WebWalker dataset used in this project. The [BrowseComp](https://arxiv.org/abs/2504.12516) dataset, also utilized here, is not publicly released in decoded form by the original authors; you will need to download and decode it yourself following their instructions.
 
 
 ## :chart_with_upwards_trend: Evaluation
 
-We evaluate MetaAgent on the GAIA, WebWalkerQA, and BrowseCamp datasets. The results are shown in the following table:
+We evaluate MetaAgent on the GAIA, WebWalkerQA, and BrowseComp datasets. The results are shown in the following table:
 
 <table>
   <thead>
@@ -256,7 +256,7 @@ We evaluate MetaAgent on the GAIA, WebWalkerQA, and BrowseCamp datasets. The res
       <th rowspan="2"><strong>Method</strong></th>
       <th colspan="4"><strong>General AI Assistant</strong></th>
       <th colspan="4"><strong>WebWalkerQA</strong></th>
-      <th colspan="3"><strong>BrowseCamp</strong></th>
+      <th colspan="3"><strong>BrowseComp</strong></th>
     </tr>
     <tr>
       <th>Level 1</th>
